@@ -1,2 +1,2 @@
 # rehmatqureshi
-test for custom domain
+using github pages to host www.rehmatqureshi.com
